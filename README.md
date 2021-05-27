@@ -41,4 +41,4 @@
 | 36 | [实体属性值模式](./EAV.php) | 其他 | 实体属性值模型（Entity-attribute-value EAV）是一种用数据模型描述实体的属性（属性，参数） |
 
 
-**更多内容, 请关注个人博客:**`https://www.classmatelin.top`
+**个人博客**: [https://www.classmatelin.top](https://www.classmatelin.top)
